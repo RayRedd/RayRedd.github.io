@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi there! I am a MSc student at [University of Manitoba](https://umanitoba.ca/) under the supervision of Professor [Ekram Hossain](https://scholar.google.com/citations?user=Lb617EMAAAAJ&hl=en). My research revolves around optimization, signal processing, artificial intelligence for wireless communication.
 
+I was born and raised in Tunisia. In 2023, I completed my M.Sc. degree in Electrical and Computer Engineering from University of Manitoba, Winnipeg, Canada. I also attained my Engineering Degree in Multidisciplinary Engineering from the [Ecole Polytechnique de Tunisie](https://www.ept.tn/), La Marsa, Tunisia. I pursued studies in Mathematics and Physics at [Institut Préparatoire aux Etudes d'Ingénieurs de Tunis](https://fr.wikipedia.org/wiki/Institut_pr%C3%A9paratoire_aux_%C3%A9tudes_d%27ing%C3%A9nieurs_de_Tunis), University of Tunis and I graduated with a top 1% ranking nationalwide in the National Entrance Examination for Admission to Engineering Schools.
