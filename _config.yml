@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Firas Fredj"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "MSc student in Wireless Communication at University of Manitoba"
-  location         : "Location"
+  location         : "Canada 🇨🇦"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3WxHsRsAAAAJ&hl=en"
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
