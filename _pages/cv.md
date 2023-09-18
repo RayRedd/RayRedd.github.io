@@ -13,4 +13,4 @@ redirect_from:
 
 You may download it from <a href="{{ base_path }}/files/Firas_Fredj_Resume.pdf">here</a> !
 
-<embed src="{{ base_path }}/files/Firas_Fredj_Resume.pdf" width="100%" height="100%" type="application/pdf">
+<embed src="{{ base_path }}/files/Firas_Fredj_Resume.pdf" width="100%" height="80%" type="application/pdf">
