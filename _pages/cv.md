@@ -15,7 +15,7 @@ redirect_from:
 
 * M.Sc. in Electrical and Computer Engineering, University of Manitoba, 2023
 * Diplôme d'Ingénieur in Multidisciplinary Engineering, Ecole Polytechnique de Tunisie, 2020
-* Diplôme des &Eacutetudes Universitaires du Premier Cycle (DEUPC) in Mathematics and Physics, Institut Préparatoire aux Etudes d’Ingénieurs de Tunis (IPEIT).
+* Diplôme des Etudes Universitaires du Premier Cycle (DEUPC) in Mathematics and Physics, Institut Préparatoire aux Etudes d’Ingénieurs de Tunis (IPEIT).
 
 ***
 
@@ -41,18 +41,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
